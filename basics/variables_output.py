@@ -1,5 +1,5 @@
 #Exo 1 - display name, age, country
-print("Bruce")
-print(29)
+print("Fleury")
+print(28)
 print("Togo")
 
